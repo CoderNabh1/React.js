@@ -43,3 +43,11 @@ To get started with React.js, you can follow these steps:
 ## Conclusion
 
 I am excited to learn React.js and build amazing applications. Stay tuned for updates on my progress!
+
+## Troubleshooting
+
+If your README file does not show on GitHub, ensure that:
+- The file is named `README.md` (case-sensitive).
+- You have committed the changes and pushed them to the correct branch.
+- Check if the repository is public or private, as this may affect visibility.
+
